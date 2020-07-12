@@ -18,10 +18,10 @@ margin-bottom: -23px
 
 }
 nav {
-  text-align: right;
+ /* text-align: right;
   margin-right: 25px;
   position:relative;
-  top: -35px
+  top: -35px*/
 }
 a:link{
   color:#000000;
