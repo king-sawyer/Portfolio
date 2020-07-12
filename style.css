@@ -48,7 +48,7 @@ main {
 footer {
   background-color: #B0B0B0;
   font-family: 'Open Sans', sans-serif;
-
+  text-align: center;
   margin-top:-16px;
   padding: 5px;
 }
