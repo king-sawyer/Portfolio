@@ -1,6 +1,9 @@
+/*affects my font*/
 body {
   font-family: 'Open-Sans','Helvetica',sans-serif;
 }
+
+/* My name */
 
 h1{
   color: #484848;
@@ -10,6 +13,7 @@ h1{
     padding-bottom: 20px;
     margin-right: 10px;
 }
+/* where my name goes */
 
 header {
   background-color: #B0B0B0;
@@ -17,9 +21,11 @@ margin-top:-21px;
 margin-bottom: -23px
 
 }
+/* affects my contact me links */
 .contacts {
  margin-top: -40px;
 }
+/*affects my link colors */
 a:link{
   color:#000000;
 }
@@ -33,6 +39,7 @@ a:active{
   color:black;
 }
 
+/*affects my main information */
 main {
   background-color: #DCDCDC;
   font-family: 'Open Sans', sans-serif;
@@ -42,6 +49,7 @@ main {
   padding: 15px;
 }
 
+/*affects my footer */
 footer {
   background-color: #B0B0B0;
   font-family: 'Open Sans', sans-serif;
@@ -49,14 +57,14 @@ footer {
   margin-top:-16px;
   padding: 5px;
 }
-
+/*affects my picture */
 .head{
   max-height:200px;
   max-width:200px;
   border-radius: 50%;
   border: 3px solid #484848
 }
-
+/* affects my boxes */
 .general{
 border-radius:10px;
 border: 3px solid #484848;
